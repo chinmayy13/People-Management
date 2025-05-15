@@ -21,7 +21,7 @@ How to Run
       git clone <https://github.com/chinmayy13/People-Management>
       cd People-Management
    ```
-3. **Install dependencies, run**
+3. **Install dependencies**
    ```bash
       npm install
    ```
