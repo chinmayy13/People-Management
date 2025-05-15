@@ -16,16 +16,16 @@ How to Run
    npm install -g @angular/cli
    ```
 
-2. Clone the repository
+2. **Clone the repository**
    ```bash
       git clone <https://github.com/chinmayy13/People-Management>
       cd People-Management
    ```
-3. Install dependencies, run
+3. **Install dependencies, run**
    ```bash
       npm install
    ```
-4. Run the application
+4. **Run the application**
    ```bash
       ng serve
    ```
