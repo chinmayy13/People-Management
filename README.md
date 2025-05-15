@@ -12,6 +12,7 @@ How to Run
 1. Clone the repository
 ```bash
    git clone <https://github.com/chinmayy13/People-Management>
+   cd People-Management
 ```
 2. Install dependencies, run
 ```bash
