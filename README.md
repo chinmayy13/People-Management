@@ -10,8 +10,8 @@ Create at least 3 views:
 How to Run
 
 1. Clone the repository
-   git clone <https://github.com/chinmayy13/People-Management>
-2. Install dependencies
-   npm install
+   `git clone <https://github.com/chinmayy13/People-Management>`
+2. Install dependencies, run
+   `npm install`
 3. Run the application
-   ng serve
+   `ng serve`
